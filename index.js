@@ -1,5 +1,5 @@
 // Write your solution here!
 const append = ["Milo", "Otis", "Garfield"];
-const prepend;
-const removeLast;
-const removefirst;
+const prepend = ["Milo", "Otis", "Garfield"];
+const removeLast = ["Milo", "Otis", "Garfield"];
+const removefirst = ["Milo", "Otis", "Garfield"];
